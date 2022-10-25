@@ -1,0 +1,10 @@
+D:\Codes\C# Projects\ProjectCLauncher\ProjectCLauncher\obj\Release\ProjectCLauncher.csproj.AssemblyReference.cache
+D:\Codes\C# Projects\ProjectCLauncher\ProjectCLauncher\obj\Release\ProjectCLauncher.Form1.resources
+D:\Codes\C# Projects\ProjectCLauncher\ProjectCLauncher\obj\Release\ProjectCLauncher.Properties.Resources.resources
+D:\Codes\C# Projects\ProjectCLauncher\ProjectCLauncher\obj\Release\ProjectCLauncher.csproj.GenerateResource.cache
+D:\Codes\C# Projects\ProjectCLauncher\ProjectCLauncher\obj\Release\ProjectCLauncher.csproj.CoreCompileInputs.cache
+D:\Codes\C# Projects\ProjectCLauncher\ProjectCLauncher\bin\Release\ProjectCLauncher.exe.config
+D:\Codes\C# Projects\ProjectCLauncher\ProjectCLauncher\bin\Release\ProjectCLauncher.exe
+D:\Codes\C# Projects\ProjectCLauncher\ProjectCLauncher\bin\Release\ProjectCLauncher.pdb
+D:\Codes\C# Projects\ProjectCLauncher\ProjectCLauncher\obj\Release\ProjectCLauncher.exe
+D:\Codes\C# Projects\ProjectCLauncher\ProjectCLauncher\obj\Release\ProjectCLauncher.pdb
